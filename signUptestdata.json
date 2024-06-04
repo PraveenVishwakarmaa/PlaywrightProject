@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "name": "Praveen",
+        "email": "praveen@gmail.com",
+        "password": "admin123",
+        "interests": [
+            "Cypress",
+            "JMETER",
+            "AWS"
+        ],
+        "gender": "Male",
+        "state": "Madhya Pradesh",
+        "hobbies": [
+            "Playing",
+            "Reading",
+            "Singing"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Tarun",
+        "email": "tarun@gmail.com",
+        "password": "admin123",
+        "interests": [
+            "WebDriverIO",
+            "Selenium"
+        ],
+        "gender": "Male",
+        "state": "Manipur",
+        "hobbies": [
+            "Swimming",
+            "Dancing"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Adwika",
+        "email": "adwika@gmail.com",
+        "password": "admin123",
+        "interests": [
+            "Cypress",
+            "GCP",
+            "JMETER",
+            "AWS"
+        ],
+        "gender": "Female",
+        "state": "Goa",
+        "hobbies": [
+            "Reading"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Megha",
+        "email": "megha@gmail.com",
+        "password": "admin123",
+        "interests": [
+            "Cypress",
+            "NightWatch JS",
+            "Playwright"
+        ],
+        "gender": "Female",
+        "state": "Delhi",
+        "hobbies": [
+            "Playing",
+            "Swimming"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin123",
+        "interests": [
+            "Cypress",
+            "JMETER",
+            "AWS",
+            "Playwright",
+            "NightWatch JS",
+            "Selenium",
+            "GCP",
+            "WebDriverIO"
+        ],
+        "gender": "Male",
+        "state": "Rajasthan",
+        "hobbies": [
+            "Playing",
+            "Reading",
+            "Swimming",
+            "Singing",
+            "Dancing"
+        ]
+    }
+]
